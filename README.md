@@ -1,3 +1,4 @@
 # DateAppSwiftUI
 Swipe : Date App made with SwiftUI.
-![op](https://user-images.githubusercontent.com/70090469/153438191-eefd15b3-a802-44a9-9276-6f156e95df89.png)
+
+![ops](https://user-images.githubusercontent.com/70090469/153439345-5c7759fd-b52a-4b7e-9d56-e532146a8a8f.png)
